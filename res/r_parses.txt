@@ -68,7 +68,6 @@
 {"name":"解90","type":1,"url":"https://api.jiexi.la/?url="},
 {"name":"解91","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"解94","type":1,"url":"https://jx.iztyy.com/svip/?url="},
-{"name":"ç›˜å�¤","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 {"name":"å·¦å²¸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","sohu","æ�œç‹�","letv","ä¹�è§†","mgtv","èŠ’æ�œ","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"夜幕","type":1,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
@@ -79,4 +78,3 @@
 {"name":"çˆ±é…·å—…æ�¢","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"宝盒TV","type":1,"url":"https://jx.52ruo.cc/json/?id=6&url="},
 {"name":"ğŸ’‹Soä¸¶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
-{"name":"解析10","type":0,"url":"http://www.ckmov.vip/api.php?url="},

@@ -1,5 +1,5 @@
 {
-//Update:2023-03-29 11:51:09.762992
+//Update:2023-03-29 12:27:04.741128
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -460,8 +460,6 @@
 {"key":"桉t4","name":"豆瓣榜单（桉T4）","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=6","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"dr_快看","name":"快看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=快看","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "", "name": "EEE\u7535\u5f71", "type": 3, "api": "", "searchable": 1, "quickSearch": 1, "filterable": 1},
@@ -469,7 +467,6 @@
 {"key":"csp_LibVio","name":"SP | LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"SP | 小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"SP|厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr_剧白白","name":"剧白白(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=剧白白","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"}
 ],
 
@@ -544,7 +541,6 @@
 {"name":"解90","type":1,"url":"https://api.jiexi.la/?url="},
 {"name":"解91","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"解94","type":1,"url":"https://jx.iztyy.com/svip/?url="},
-{"name":"ç›˜å�¤","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 {"name":"å·¦å²¸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","sohu","æ�œç‹�","letv","ä¹�è§†","mgtv","èŠ’æ�œ","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"夜幕","type":1,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
@@ -554,8 +550,7 @@
 {"name":"4K","type":1,"url":"https://jx.4kdv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"çˆ±é…·å—…æ�¢","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"宝盒TV","type":1,"url":"https://jx.52ruo.cc/json/?id=6&url="},
-{"name":"ğŸ’‹Soä¸¶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
-{"name":"解析10","type":0,"url":"http://www.ckmov.vip/api.php?url="}
+{"name":"ğŸ’‹Soä¸¶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

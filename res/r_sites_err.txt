@@ -499,3 +499,6 @@
 0:{"key":"dr_莫扎兔","name":"莫扎兔(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=莫扎兔","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"http://t.饭太硬.ml/vod?","searchable":0,"quickSearch":0,"filterable":0},
 0:{"key":"dr_兔小贝","name":"🔃兔小贝┃儿童启蒙","type":1,"api":"http://d.饭太硬.ml/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
+0:{"key":"dr_快看","name":"快看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=快看","searchable":2,"quickSearch":1,"filterable":0},
+0:{"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},
+0:{"key":"dr_剧白白","name":"剧白白(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=剧白白","searchable":2,"quickSearch":0,"filterable":0},

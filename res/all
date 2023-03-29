@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-03-29 22:24:06.161037
+//Update:2023-03-30 01:50:23.430667
 
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -385,7 +385,6 @@
 {"key":"COKEMV","name":"🥮COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/COKEMV.json"},
 {"key":"Auete影视","name":"🍬Auete影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/Auete%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XBiubiu哔嘀影视","name":"🍠哔嘀影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"},
-{"key":"cms-555影视","name":"📨555影视","type":4,"api":"http://cms.nokia.press/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"cms-cokemv","name":"📨cokemv","type":4,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"cms-LIBVIO","name":"📨LIBVIO","type":4,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"cms-vip影院","name":"📨vip影院","type":4,"api":"http://cms.nokia.press/vod?rule=vip影院","searchable":1,"quickSearch":1,"filterable":1},

@@ -235,3 +235,7 @@ Extra data: line 1 column 193 (char 192)
 [2023-03-30 08:49:42] Main-Line-496-Exception:
 Extra data: line 1 column 285 (char 284)
 {"name":"å·¦å²¸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","sohu","æ�œç‹�","letv","ä¹�è§†","mgtv","èŠ’æ�œ","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},}
+
+[2023-03-30 10:32:47] Main-Line-496-Exception:
+Extra data: line 1 column 64 (char 63)
+{"name":"解94","type":1,"url":"https://jx.iztyy.com/svip/?url="},}

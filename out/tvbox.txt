@@ -1,5 +1,5 @@
 {
-//Update:2023-03-30 14:28:07.981035
+//Update:2023-03-30 16:26:47.832657
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -375,7 +375,6 @@
 {"key":"mtv_xp_小强影迷","name":"切片┃小强影迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/小强影迷.json"},
 {"key":"mtv_xp_剧白影视","name":"切片┃剧白影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/剧白影视.json"},
 {"key":"mtv_xp_比特影视","name":"切片┃比特影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/比特影视.json"},
-{"key":"mtv_xp_云播看看","name":"切片┃云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/云播看看.json"},
 {"key":"mtv_xp_北川影视","name":"切片┃北川影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/北川影视.json"},
 {"key":"mtv_xp_花猫影视","name":"切片┃花猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/花猫影视.json"},
 {"key":"mtv_xp_瓜皮影视","name":"切片┃瓜皮影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/瓜皮影视.json"},
@@ -526,8 +525,7 @@
 {"name":"解52","type":1,"url":"https://jx.xmflv.com/?url="},
 {"name":"解53","type":1,"url":"https://www.8090g.cn/?url="},
 {"name":"解56","type":1,"url":"https://api.okjx.cc:3389/jx.php?url="},
-{"name":"解70","type":1,"url":"https://okjx.cc/?url="},
-{"name":"解84","type":1,"url":"https://svip.bljiex.cc/?v="}
+{"name":"解70","type":1,"url":"https://okjx.cc/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

@@ -508,3 +508,6 @@
 0:{"key":"cms-cokemv","name":"📨cokemv","type":4,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":1},
 0:{"key":"cms-LIBVIO","name":"📨LIBVIO","type":4,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":1},
 0:{"key":"mtv_xp_云播看看","name":"切片┃云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/云播看看.json"},
+0:{"key":"mtv_xp_去看动漫","name":"切片┃去看动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/去看动漫.json"},
+0:{"key":"cms-vip影院","name":"📨vip影院","type":4,"api":"http://cms.nokia.press/vod?rule=vip影院","searchable":1,"quickSearch":1,"filterable":1},
+0:{"key":"LIBVIO","name":"🍲LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/LIBVIO.json"},

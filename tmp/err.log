@@ -303,3 +303,7 @@ Extra data: line 1 column 275 (char 274)
 [2023-03-31 18:11:29] Main-Line-496-Exception:
 Extra data: line 1 column 190 (char 189)
 {"name":"433解析","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优酷","芒果","腾讯","爱奇艺","奇艺"]}},}
+
+[2023-03-31 20:17:34] Main-Line-496-Exception:
+Extra data: line 1 column 189 (char 188)
+{"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},}

@@ -279,3 +279,7 @@ Extra data: line 1 column 80 (char 79)
 [2023-03-31 06:09:30] Main-Line-496-Exception:
 Extra data: line 1 column 110 (char 109)
 {"name":"解22","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="},}
+
+[2023-03-31 08:49:02] Main-Line-496-Exception:
+Extra data: line 1 column 58 (char 57)
+{"name":"解15","type":1,"url":"https://jx.7kjx.com/?url="},}

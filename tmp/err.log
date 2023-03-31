@@ -323,3 +323,7 @@ Extra data: line 1 column 135 (char 134)
 [2023-04-01 04:09:54] Main-Line-496-Exception:
 Extra data: line 1 column 107 (char 106)
 {"name":"菜鸟追剧","type":1,"url":"https://apis.jxcxin.cn/api/jx?url=","ext":{"flag":["qq","腾讯","mgtv","芒果"]}},}
+
+[2023-04-01 06:08:38] Main-Line-496-Exception:
+Extra data: line 1 column 124 (char 123)
+{"name":"天诚影视4","type":1,"url":"https://svip.cygc.xyz/api/?key=LHIDJlDFp1lPagfFwQ&url=","ext":{"flag":["qiyi","爱奇艺","奇艺"]}},}

@@ -34,4 +34,3 @@
 {"name":"天诚影视4","type":1,"url":"https://svip.cygc.xyz/api/?key=LHIDJlDFp1lPagfFwQ&url=","ext":{"flag":["qiyi","爱奇艺","奇艺"]}},
 {"name":"菜鸟追剧","type":1,"url":"https://apis.jxcxin.cn/api/jx?url=","ext":{"flag":["qq","腾讯","mgtv","芒果"]}},
 {"name":"天诚影视5","type":1,"url":"http://json.1920lgzy.top/api/?key=K6ROZoQ9Y5FxzkdgTT&url=","ext":{"flag":["1920l","qiyi","爱奇艺","奇艺"]}},
-{"name":"遗忘影视","type":1,"url":"http://gq.bywdtk.cn/?url="},

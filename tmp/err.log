@@ -315,3 +315,7 @@ Extra data: line 1 column 241 (char 240)
 [2023-04-01 00:12:05] Main-Line-496-Exception:
 Extra data: line 1 column 59 (char 58)
 {"name":"遗忘影视","type":1,"url":"http://gq.bywdtk.cn/?url="},}
+
+[2023-04-01 02:10:25] Main-Line-496-Exception:
+Extra data: line 1 column 135 (char 134)
+{"name":"天诚影视5","type":1,"url":"http://json.1920lgzy.top/api/?key=K6ROZoQ9Y5FxzkdgTT&url=","ext":{"flag":["1920l","qiyi","爱奇艺","奇艺"]}},}

@@ -335,3 +335,7 @@ Extra data: line 1 column 189 (char 188)
 [2023-04-01 10:26:38] Main-Line-496-Exception:
 Extra data: line 1 column 60 (char 59)
 {"name":"椰子0","type":0,"url":"http://jx.gbxy.net.cn/?url="},}
+
+[2023-04-01 12:11:03] Main-Line-496-Exception:
+Extra data: line 1 column 69 (char 68)
+{"name":"💡MAO","type":1,"url":"https://www.mtosz.com/m3u8.php?url="},}

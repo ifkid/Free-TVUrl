@@ -534,3 +534,6 @@
 0:{"key":"*水蜜桃","name":"🔞水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 0:{"key":"csp_xml_搬运工","name":"🐝搬运工资源","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
 0:{"key":"随缘电影","name":"随缘电影","type":1,"api":"https://baobei666.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
+0:{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+404:{"key":"csp_app_爱酷影视","name":"🐌爱酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+404:{"key":"爱酷影视","name":"爱酷影视(优)","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","searchable":0,"quickSearch":0},

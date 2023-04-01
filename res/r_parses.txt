@@ -25,4 +25,3 @@
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"多多","type":1,"url":"https://player.movie09.com/dplayer/?url="},
-{"name":"💡ckmov","type":1,"url":"https://www.ckmov.vip/api.php?url="},

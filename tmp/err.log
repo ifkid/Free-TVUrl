@@ -359,3 +359,7 @@ Extra data: line 1 column 72 (char 71)
 [2023-04-01 22:07:38] Main-Line-496-Exception:
 Extra data: line 1 column 204 (char 203)
 {"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},}
+
+[2023-04-02 00:10:55] Main-Line-496-Exception:
+Extra data: line 1 column 204 (char 203)
+{"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},}

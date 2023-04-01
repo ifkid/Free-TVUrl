@@ -27,4 +27,3 @@
 {"name":"多多","type":1,"url":"https://player.movie09.com/dplayer/?url="},
 {"name":"💡ckmov","type":1,"url":"https://www.ckmov.vip/api.php?url="},
 {"name":"💡H8","type":1,"url":"https://www.h8jx.com/jiexi.php?url="},
-{"name":"💡MUTV","type":1,"url":"https://jiexi.janan.net/jiexi/?url="},

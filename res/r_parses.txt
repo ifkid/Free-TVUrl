@@ -16,4 +16,3 @@
 {"name":"解85","type":1,"url":"https://www.1717yun.com/api/?url="},
 {"name":"解96","type":1,"url":"https://www.8090.la/8090/?url="},
 {"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
-{"name":"解109","type":1,"url":"http://m2090.com/?url="},

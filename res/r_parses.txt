@@ -13,4 +13,3 @@
 {"name":"解59","type":1,"url":"https://dp.fqplayer.com/dplayer/?url="},
 {"name":"解61","type":1,"url":"https://api.iztyy.com/jiexi/?url="},
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
-{"name":"解85","type":1,"url":"https://www.1717yun.com/api/?url="},

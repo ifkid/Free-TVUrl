@@ -7,4 +7,3 @@
 {"name":"解44","type":1,"url":"https://player.sewozyplayer.com/m3u8/?url="},
 {"name":"解47","type":1,"url":"https://api.xiusebf.com/m3u8/?url="},
 {"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="},
-{"name":"解49","type":1,"url":"https://player.77lehuo.com/aliplayer/?url="},

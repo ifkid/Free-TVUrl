@@ -17,4 +17,3 @@
 {"name":"解96","type":1,"url":"https://www.8090.la/8090/?url="},
 {"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
 {"name":"解109","type":1,"url":"http://m2090.com/?url="},
-{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},

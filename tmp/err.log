@@ -407,3 +407,7 @@ Extra data: line 1 column 53 (char 52)
 [2023-04-02 22:07:41] Main-Line-496-Exception:
 Extra data: line 1 column 66 (char 65)
 {"name":"解61","type":1,"url":"https://api.iztyy.com/jiexi/?url="},}
+
+[2023-04-03 00:10:35] Main-Line-496-Exception:
+Extra data: line 1 column 70 (char 69)
+{"name":"解59","type":1,"url":"https://dp.fqplayer.com/dplayer/?url="},}

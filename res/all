@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-04-07 18:22:58.223395
+//Update:2023-04-07 20:24:45.447707
 
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -327,7 +327,6 @@
 {"key":"mtv_xp_体育赛事","name":"哔哩┃体育赛事","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/体育赛事.json"},
 {"key":"mtv_xp_棋牌娱乐","name":"哔哩┃棋牌娱乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/棋牌娱乐.json"},
 {"key":"mtv_xp_美食天地","name":"哔哩┃美食天地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/美食天地.json"},
-{"key":"mtv_xp_酷奇视频","name":"切片┃酷奇视频","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/酷奇视频.json"},
 {"key":"mtv_xp_三五电影","name":"切片┃三五电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/三五电影.json"},
 {"key":"mtv_xp_乐猪影院","name":"切片┃乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/乐猪影院.json"},
 {"key":"mtv_xp_在线之家","name":"切片┃在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/在线之家.json"},

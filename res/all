@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-04-07 12:21:14.952391
+//Update:2023-04-07 14:24:13.487226
 
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -345,7 +345,6 @@
 {"key":"mtv_xp_骚火电影","name":"切片┃骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/骚火电影.json"},
 {"key":"mtv_xp_口袋影院","name":"切片┃口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/口袋影院.json"},
 {"key":"mtv_xp_克拉影视","name":"切片┃克拉影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/克拉影视.json"},
-{"key":"mtv_xp_大米星球","name":"切片┃大米星球","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/大米星球.json"},
 {"key":"mtv_xp_影视工厂","name":"切片┃影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/影视工厂.json"},
 {"key":"mtv_xp_稀饭影视","name":"切片┃稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/稀饭影视.json"},
 {"key":"mtv_xp_四看电影","name":"切片┃四看电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/四看电影.json"},

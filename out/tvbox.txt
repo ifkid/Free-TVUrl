@@ -1,5 +1,5 @@
 {
-//Update:2023-04-13 22:21:16.718942
+//Update:2023-04-14 00:26:34.686964
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -59,7 +59,6 @@
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾旦影视","name":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"网民电影","name":"网民电影","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://zy.ataoju.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
 {"key":"麒麟资源","name":"麒麟资源(官)","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"极客资源","name":"极客资源","type":1,"api":"https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/","searchable":1,"quickSearch":1},
 {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -378,7 +377,6 @@
 {"key":"*奶茶资源","name":"🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
 {"key":"Yiso","name":"易搜（云盘仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
-{"key":"片库","name":"片库(官)","type":1,"api":"https://pianku.wang/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://wujinzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"色窝资源","name":"色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/?ac=list","playUrl":"https://player.sewozyplayer.com/m3u8/?url=","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"52AV资源","name":"52AV资源","type":1,"api":"https://52zyapi.com/home/cjapi/asda/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},

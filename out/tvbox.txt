@@ -1,5 +1,5 @@
 {
-//Update:2023-04-21 00:24:35.591323
+//Update:2023-04-21 02:22:48.880389
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -64,7 +64,6 @@
 {"key":"77韩剧","name":"77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影视大全","name":"影视大全","type":1,"api":"https://app.okmedcos.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"瞬间影视","name":"瞬间影视","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"九狐影视","name":"九狐影视","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"幻风影视","name":"幻风影视","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小鸟动漫","name":"小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -225,7 +224,6 @@
 {"key":"csp_appysv2_兔子窝","name":"兔子窝(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_淘剧社","name":"淘剧社(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
 {"key":"csp_appysv2_快看影视","name":"快看影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kuaikys.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_瞬间影视","name":"瞬间影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.7en7.com/qingdoujiekou.php/v1.vod"},
 {"key":"csp_Jianying","name":"🐞简影","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
 {"key":"考拉TV","name":"考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_佳佳影视","name":"佳佳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},

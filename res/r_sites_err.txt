@@ -565,3 +565,4 @@
 404:{"key":"瞬间影视","name":"瞬间影视","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 404:{"key":"csp_appysv2_瞬间影视","name":"瞬间影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.7en7.com/qingdoujiekou.php/v1.vod"},
 0:{"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+0:{"key":"艾旦影视","name":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},

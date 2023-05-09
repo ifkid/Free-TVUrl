@@ -577,3 +577,4 @@
 0:{"key":"mtv_xp_乌龟影院","name":"切片┃乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/乌龟影院.json"},
 0:{"key":"mtv_xp_超清影视","name":"切片┃超清影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/超清影视.json"},
 0:{"key":"mtv_xp_尼克影视","name":"切片┃尼克影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/尼克影视.json"},
+0:{"key":"奈菲迷","name":"奈菲迷(优)","type":1,"api":"https://app.netflixmi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},

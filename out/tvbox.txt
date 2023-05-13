@@ -1,5 +1,5 @@
 {
-//Update:2023-05-13 22:18:17.319937
+//Update:2023-05-14 00:21:11.088599
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -387,7 +387,6 @@
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key": "", "name": "EEE\u7535\u5f71", "type": 3, "api": "", "searchable": 1, "quickSearch": 1, "filterable": 1},
-{"key":"思古影院","name":"思古影院(优)","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_LibVio","name":"SP | LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"SP | 小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"SP|厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},

@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-05-22 08:51:43.659600
+//Update:2023-05-22 10:37:41.046157
 
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -274,7 +274,6 @@
 {"key":"csp_Anfuns","name":"Anfuns日本动漫(SP)","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"*JAV名优馆","name":"🔞JAV名优馆","type":1,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"*奶茶资源","name":"🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
 {"key":"Yiso","name":"易搜（云盘仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
 {"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://wujinzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"色窝资源","name":"色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/?ac=list","playUrl":"https://player.sewozyplayer.com/m3u8/?url=","searchable":1,"quickSearch":0,"filterable":0},

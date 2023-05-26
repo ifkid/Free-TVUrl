@@ -1,5 +1,5 @@
 {
-//Update:2023-05-27 00:13:10.921776
+//Update:2023-05-27 02:13:52.921805
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -225,7 +225,6 @@
 {"key":"FF9资源","name":"FF9资源(切)","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_Auete影视","name":"🥒Auete影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/Auete影视.json"},
 {"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/麻衣高清.json"},
-{"key":"csp_appysv2_2号币","name":"2号币(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
 {"key":"csp_xml_鱼乐资源","name":"🐝鱼乐资源","type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"Coke","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"乐猪(爬虫)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},

@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-05-27 20:17:24.392399
+//Update:2023-05-27 22:10:43.182618
 
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -40,7 +40,6 @@
 {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/瓜皮TV.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"真不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/真不卡影院(不支持搜索).json"},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","searchable":1,"quickSearch":1},
@@ -318,7 +317,6 @@
 {"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/czspp.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/真不卡影院(不支持搜索).json"},
 {"key":"快车资源","name":"快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"鱼乐资源","name":"鱼乐资源(切)","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","searchable":1,"quickSearch":1},

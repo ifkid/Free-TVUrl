@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-05-28 22:08:56.103575
+//Update:2023-05-29 00:12:23.771923
 
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -50,7 +50,6 @@
 {"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影视大全","name":"影视大全","type":1,"api":"https://app.okmedcos.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"幻风影视","name":"幻风影视","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小鸟动漫","name":"小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"KanSJ_spider","name":"SP|看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"追剧喵","name":"SP|追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
@@ -325,7 +324,6 @@
 {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"龙腾资源(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影视大全","name":"影视大全(优)","type":1,"api":"https://app.okmedcos.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"幻风影视","name":"幻风影视(聚)","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小鸟动漫","name":"小鸟动漫(聚)","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_焦炭影视","name":"爬虫┃焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},

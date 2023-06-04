@@ -1,5 +1,5 @@
 {
-//Update:2023-06-04 20:19:18.961835
+//Update:2023-06-04 22:09:19.797396
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -40,7 +40,6 @@
 {"key":"mtv_pc_剧荒影院","name":"剧荒影院","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_樱花动漫","name":"樱花动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_kuqimv","name":"酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/瓜皮TV.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"真不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/真不卡影院(不支持搜索).json"},

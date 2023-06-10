@@ -1,5 +1,5 @@
 {
-//Update:2023-06-10 06:10:27.800614
+//Update:2023-06-10 08:52:04.937731
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -21,7 +21,6 @@
 {"key":"csp_QQ","name":"腾讯官采","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果官采","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_czspp","name":"厂长资源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/czspp.json"},
-{"key":"csp_appysv2_M2_暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"csp_bendi","name":"本地播放","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key": "csp_EEEDY", "name": "EEE\u7535\u5f71", "type": 3, "api": "csp_EEEDY", "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key":"csp_Cokemv","name":"🦋Cokemv影视","type":3,"api":"csp_Cokemv","searchable":0,"quickSearch":0,"filterable":0},

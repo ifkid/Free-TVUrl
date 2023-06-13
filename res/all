@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-06-13 09:07:51.073143
+//Update:2023-06-13 10:38:21.061820
 
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -11,7 +11,6 @@
 {"key":"Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"Anime1动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Gitcafe","name":"️小纸条（SP云盘）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"daae36603bcd490681bdd8d03940783a"},
 {"key":"csp_Yj1211","name":"JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯官采","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果官采","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},

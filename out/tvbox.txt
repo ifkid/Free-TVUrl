@@ -1,5 +1,5 @@
 {
-//Update:2023-06-13 09:07:51.072308
+//Update:2023-06-13 10:38:21.060819
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -16,7 +16,6 @@
 {"key":"Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"Anime1动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Gitcafe","name":"️小纸条（SP云盘）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"daae36603bcd490681bdd8d03940783a"},
 {"key":"csp_Yj1211","name":"JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯官采","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果官采","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},

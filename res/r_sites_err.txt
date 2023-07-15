@@ -708,3 +708,4 @@
 0:{"key":"蓝光影院","name":"蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyy.json"},
 0:{"key":"瓜皮","name":"瓜皮(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/kuukey/b/-/raw/master/6/gptv.json"},
 0:{"key":"口袋影院","name":"口袋(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"},
+0:{"key":"csp_biubiu_小傻瓜","name":"🥒小傻瓜","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/小傻瓜.json"},

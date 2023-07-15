@@ -1,5 +1,5 @@
 {
-//Update:2023-07-15 16:13:27.585399
+//Update:2023-07-15 18:11:11.011710
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -99,7 +99,6 @@
 {"key":"csp_biubiu_豆角网","name":"🥒豆角网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/豆角网.json"},
 {"key":"csp_biubiu_稀饭影视","name":"🥒稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/稀饭影视.json"},
 {"key":"csp_biubiu_尘落影院","name":"🥒尘落影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/尘落影院.json"},
-{"key":"csp_biubiu_小傻瓜","name":"🥒小傻瓜","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/小傻瓜.json"},
 {"key":"csp_biubiu_电影馆","name":"🥒电影馆","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/电影馆.json"},
 {"key":"csp_biubiu_爱看影视","name":"🥒爱看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/爱看影视.json"},
 {"key":"csp_biubiu_视中心影院","name":"🥒视中心影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/视中心影院.json"},

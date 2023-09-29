@@ -719,3 +719,4 @@
 404:{"key":"麒麟资源","name":"麒麟资源(官)","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 0:{"key":"*JAV名优馆","name":"🔞JAV名优馆","type":1,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
 0:{"key":"4K狗","name":"4K狗(聚)","type":1,"api":"http://4kdog.tk/api.php/provide/vod/","searchable":1,"quickSearch":1},
+404:{"key":"无尽资源2","name":"无尽资源2(切)","type":1,"api":"https://wuzy9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},

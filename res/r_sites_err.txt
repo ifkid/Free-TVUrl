@@ -876,3 +876,4 @@
 0:{"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/麻衣高清.json"},
 0:{"key":"晓峰影视","name":"晓峰影视(聚)","type":1,"api":"http://api.xxcr.tk/api.php/provide/vod/","searchable":0,"quickSearch":0},
 404:{"key":"金鹰资源","name":"金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod/","searchable":0,"quickSearch":0},
+0:{"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

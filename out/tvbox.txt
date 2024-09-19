@@ -1,5 +1,5 @@
 {
-//Update:2024-09-19 22:10:58.227005
+//Update:2024-09-20 00:14:05.490169
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -44,7 +44,6 @@
 {"key":"csp_Jianying","name":"🐞简影","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
 {"key":"考拉TV","name":"考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml_CK资源","name":"🐝CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱奇艺会员〔官源〕","name":"🐝爱奇艺〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qiyi/?ac=list"},
 {"key":"优酷视频会员〔官源〕","name":"🐝优酷〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list"},
 {"key":"芒果TV会员〔官源〕","name":"🐝芒果〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/mgtv/?ac=list"},
